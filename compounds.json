@@ -1,0 +1,174 @@
+{
+
+"version": 1,
+
+"updatedAt": "2026-03-10",
+
+"compounds": [
+
+{
+
+"name": "Methenolone Enanthate",
+
+"aliases": ["primo", "primobolan", "methenolone", "metenolone enanthate"],
+"route": "injection",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 168,
+"colorHex": "#AF52DE"
+},
+{
+"name": "Testosterone Enanthate",
+"aliases": ["test e", "testo e", "testosterone e", "test enanthate"],
+"route": "injection",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 168
+},
+{
+"name": "Testosterone Cypionate",
+"aliases": ["test c", "test cyp", "testosterone cyp", "depo-testosterone"],
+"route": "injection",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 192
+},
+{
+"name": "Testosterone Propionate",
+"aliases": ["test p", "test prop", "testosterone prop"],
+"route": "injection",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 48
+},
+{
+"name": "Testosterone Undecanoate",
+"aliases": ["test u", "nebido", "aveed", "testosterone undeconate"],
+"route": "injection",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 480
+},
+{
+"name": "Nandrolone Decanoate",
+"aliases": ["deca", "nandrolone", "deca durabolin"],
+"route": "injection",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 360
+},
+{
+"name": "Nandrolone Phenylpropionate",
+"aliases": ["npp", "nandrolone phenyl"],
+"route": "injection",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 96
+},
+{
+"name": "Boldenone Undecylenate",
+"aliases": ["eq", "equipoise", "boldenone"],
+"route": "injection",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 336
+},
+{
+"name": "Trenbolone Acetate",
+"aliases": ["tren a", "tren ace", "trenbolone ace"],
+"route": "injection",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 48
+},
+{
+"name": "Trenbolone Enanthate",
+"aliases": ["tren e", "trenbolone e"],
+"route": "injection",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 168
+},
+{
+"name": "Masteron Propionate",
+"aliases": ["mast p", "masteron prop", "drostanolone propionate", "drostanolone prop"],
+"route": "injection",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 48
+},
+{
+"name": "Masteron Enanthate",
+"aliases": ["mast e", "masteron e", "drostanolone enanthate"],
+"route": "injection",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 168
+},
+{
+"name": "Stanozolol",
+"aliases": ["winstrol", "winny", "stan"],
+"route": "oral",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 9
+},
+{
+"name": "Oxandrolone",
+"aliases": ["anavar", "var", "oxandrin"],
+"route": "oral",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 10
+},
+{
+"name": "Anastrozole",
+"aliases": ["arimidex", "adex", "anastro"],
+"route": "oral",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 46
+},
+{
+"name": "Exemestane",
+"aliases": ["aromasin", "exe"],
+"route": "oral",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 27
+},
+{
+"name": "Letrozole",
+"aliases": ["femara", "letro"],
+"route": "oral",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 48
+},
+{
+"name": "Tamoxifen",
+"aliases": ["nolvadex", "nolva", "tamox"],
+"route": "oral",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 168
+},
+{
+"name": "Clomiphene",
+"aliases": ["clomid", "clomiphene citrate", "clom"],
+"route": "oral",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 120
+},
+{
+"name": "Human Chorionic Gonadotropin",
+"aliases": ["hcg", "chorionic gonadotropin"],
+"route": "injection",
+"defaultDoseUnit": "IU",
+"defaultHalfLifeHours": 36
+},
+{
+"name": "Gonadorelin",
+"aliases": ["gonadorelin acetate", "gnrh", "factrel"],
+"route": "injection",
+"defaultDoseUnit": "mcg",
+"defaultHalfLifeHours": 0.05
+},
+{
+"name": "Testosterone Gel",
+"aliases": ["androgel", "testim", "test gel", "tgel"],
+"route": "topical",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 24
+},
+{
+"name": "DHT Gel",
+"aliases": ["andractim", "dht gel", "dihydrotestosterone gel"],
+"route": "topical",
+"defaultDoseUnit": "mg",
+"defaultHalfLifeHours": 24
+}
+]
+}
